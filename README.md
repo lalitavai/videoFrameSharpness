@@ -17,9 +17,8 @@ It identifies and displays the frames with the maximum sharpness using these met
 ---
 
 ## 📂 File Structure
-- `dataPath.py`: File containing the `DATA_PATH` variable (adjust as needed).
 - `focus-test.mp4`: Input video file to be analyzed.
-- `sharpness_analyzer.py`: Main script for running the analysis.
+- `video-sharpness-auto-focus.py`: Main script for running the analysis.
 
 ---
 
