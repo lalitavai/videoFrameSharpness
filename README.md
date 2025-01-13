@@ -6,6 +6,7 @@ This project analyzes the sharpness (or focus) of frames in a video using two me
 
 It identifies and displays the frames with the maximum sharpness using these methods, making it useful for applications like autofocus testing or video quality analysis.
 
+![Alt text](autofocus-video-lapacian.png)
 ---
 
 ## 🚀 Features
